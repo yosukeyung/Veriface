@@ -40,7 +40,7 @@ To ensure performance efficiency, the workflow is split:
 ### Step-by-Step Guide
 1.  **Clone this Repository**
     ```bash
-    git clone https://github.com/yosukeyung/Face-Recognition-Attendance-System.git
+    git clone https://github.com/yosukeyung/Veriface.git
     cd repo-name
     ```
 
