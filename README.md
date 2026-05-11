@@ -54,7 +54,7 @@ To ensure performance efficiency, the workflow is split:
 3.  **Install Dependencies**
     *(Make sure you have requirements.txt, or install manually)*
     ```bash
-    pip install insightface opencv-python pandas openpyxl
+    pip install -r requirements.txt
     ```
 
 4.  **Setup Files**
