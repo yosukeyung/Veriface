@@ -9,7 +9,9 @@
 > _Built as an AI Final Project! 🚀_
 >
 > **Project Type:** Group Project
+>
 > **Status:** 🏁 Completed
+
 > **🌟 Update:** I have recently developed an upgraded and improved version of this project! **[👉 Check out the Improved Version Repository Here]([MASUKKAN_LINK_REPO_IMPROVEMENT_DI_SINI])**
 
 ## 📖 Project Overview
@@ -24,6 +26,12 @@ The system employs a **Hybrid Workflow**:
 * **Real-Time Processing:** Instantly detects faces via Webcam.
 * **Automated Export:** Attendance logs are automatically saved to `.csv` (Excel).
 * **Portable Model:** Uses a serialized `.pkl` file for easy deployment on local machines.
+
+## 🤝 My Role & Contributions
+In this group project, my primary responsibility was leading the **Modeling and Evaluation** phases. My specific contributions include:
+- **Deep Learning Modeling:** Designing and implementing the InsightFace architecture to accurately extract facial features and generate stable face embeddings.
+- **System Evaluation:** Testing the recognition accuracy against various environmental factors (e.g., lighting changes) and tuning the cosine distance thresholds to minimize false positives.
+- **Model Serialization:** Packaging the trained face encodings into a `.pkl` file to bridge the gap between cloud-based training and local real-time inference.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
