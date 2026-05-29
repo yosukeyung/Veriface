@@ -3,14 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![InsightFace](https://img.shields.io/badge/Library-InsightFace-orange)
 ![Anaconda](https://img.shields.io/badge/Environment-Anaconda-green)
-![Status](https://img.shields.io/badge/Status-Prototype-success)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Type](https://img.shields.io/badge/Type-Group_Project-8A2BE2)
 
 > **A high-accuracy, real-time attendance system leveraging deep learning-based face analysis.**
 > _Built as an AI Final Project! 🚀_
->
-> **Project Type:** Group Project
->
-> **Status:** 🏁 Completed
 
 > **🌟 Update:** I have recently developed an upgraded and improved version of this project! **[👉 Check out the Improved Version Repository Here](https://github.com/yosukeyung/FAISS-Indexing-Face-Recognition)**
 
