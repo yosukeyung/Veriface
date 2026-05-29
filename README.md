@@ -12,7 +12,7 @@
 >
 > **Status:** 🏁 Completed
 
-> **🌟 Update:** I have recently developed an upgraded and improved version of this project! **[👉 Check out the Improved Version Repository Here]([MASUKKAN_LINK_REPO_IMPROVEMENT_DI_SINI])**
+> **🌟 Update:** I have recently developed an upgraded and improved version of this project! **[👉 Check out the Improved Version Repository Here](https://github.com/yosukeyung/FAISS-Indexing-Face-Recognition)**
 
 ## 📖 Project Overview
 This project is a high-accuracy, real-time attendance system leveraging the **InsightFace** library for deep learning-based face analysis. Unlike standard detection systems, InsightFace offers robust performance even in varying lighting conditions.
