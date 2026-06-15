@@ -88,7 +88,8 @@ To ensure performance efficiency, the workflow is split:
 To protect privacy, the raw training images and the `.pkl` file containing biometric data are **excluded** from this repository. This repo focuses on the inference logic (`veriface.py`).
 
 ---
-**Author:** Yosuke Yung
-*CS Student @ BINUS UNIVERSITY*
+## 👨‍💻 Author
 
+Yosuke Yung
+CS Student @ BINUS UNIVERSITY
 
